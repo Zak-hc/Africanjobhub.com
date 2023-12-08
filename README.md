@@ -1,9 +1,9 @@
-# Aji_tkhedem.com (Private_Code = ask for it)
+# Africanjobhub (Private_Code = ask for it)
 
                                  <= Francais =>
                                  
 Site d'Offre d'emplois
-Titre : Aji_tekhedm.com
+Titre : Africanjobhub
 
 Description :
 
@@ -54,11 +54,11 @@ Ce site web est un outil précieux pour les employeurs et les candidats à la re
                                  <= Englais =>
 
                                  
-Title: Aji_tkhedem.com: A Job Portal for All
+Title: Africanjobhub.com: A Job Portal for All
 
 Description:
 
-Aji_tkhedem.com is a job portal that allows public and private employers to post job openings and job seekers to search for jobs. The site is designed to be easy to use and navigate, and it offers a variety of features for employers and job seekers.
+Africanjobhub.com is a job portal that allows public and private employers to post job openings and job seekers to search for jobs. The site is designed to be easy to use and navigate, and it offers a variety of features for employers and job seekers.
 
 Features for employers:
 
@@ -72,19 +72,19 @@ Create and save profiles and CVs
 Receive email alerts about new job postings
 Objectives:
 
-The objective of Aji_tkhedem.com is to make it easy for job seekers to find jobs and to provide employers with an effective way to find qualified candidates.
+The objective of Africanjobhub.com is to make it easy for job seekers to find jobs and to provide employers with an effective way to find qualified candidates.
 
 Target audience:
 
-The target audience of Aji_tkhedem.com includes public and private employers as well as job seekers.
+The target audience of Africanjobhub.com includes public and private employers as well as job seekers.
 
 Technologies used:
 
-Aji_tkhedem.com is built using the technologies Python/CSS/HTML/JS.
+Africanjobhub.com is built using the technologies Python/CSS/HTML/JS.
 
 Advantages:
 
-Aji_tkhedem.com offers a number of advantages to employers and job seekers, including:
+Africanjobhub.com offers a number of advantages to employers and job seekers, including:
 
 For employers:
 Reduced recruitment costs
@@ -95,4 +95,4 @@ Ease of job search
 Increased chances of finding a job
 
 Conclusion:
-Aji_tkhedem.com is a valuable tool for employers and job seekers. It is easy to use and offers a variety of features to meet the needs of all users.
+Africanjobhub.com is a valuable tool for employers and job seekers. It is easy to use and offers a variety of features to meet the needs of all users.
